@@ -26,7 +26,7 @@ export default function Home() {
             <div className="flex flex-col xl:flex-row items-center gap-8">
               <Button variant="outline" size="lg" className="uppercase flex items-center gap-2">
                 
-                <a href="/assets/CV.pdf" download="JABER_SAIDALIN_ALAKATH_CV">Download CV</a>
+                <a href="/Jabiring/assets/CV.pdf" download="JABER_SAIDALIN_ALAKATH_CV">Download CV</a>
                 {/* <span>Download CV</span> */}
                 <FileDownIcon className="text-xl" />
               </Button>
