@@ -11,7 +11,7 @@ export default function Photo() {
                   animate={{ opacity: 1, scale: 1 }}
                   transition={{ delay: 2.4, duration: 0.5 }}>
         <div className="w-[250px] h-[250px] xl:w-[450px] xl:h-[450px] mix-blend-lighten absolute">
-          <Image src="Jabiring/assets/dp.png"
+          <Image src="/Jabiring/assets/dp.png"
                  priority
                  quality={100}
                  fill
