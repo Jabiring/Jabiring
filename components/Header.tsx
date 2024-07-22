@@ -11,7 +11,7 @@ export default function Header() {
     <header className="py-8 xl:py-12 text-white">
       <div className="container mx-auto flex justify-between items-center">
         <h1 className="text-4xl font-semibold">
-          Jabir
+          Jabir Saidali
         </h1>
         <div className="hidden md:flex items-center gap-8">
           <Navbar/>
