@@ -15,8 +15,8 @@ const links = [
     path: "/skills",
   },
   {
-    name: "Projects",
-    path: "/projects",
+    name: "Resume",
+    path: "/resume",
   },
   {
     name: "Contact",
@@ -34,7 +34,7 @@ export default function MobileNav() {
       <SheetContent className="flex flex-col">
         <div className="mt-32 mb-40 text-center text-2xl">
           <h1 className="text-4xl font-semibold">
-            M<span className="text-accent">.</span>A
+            J<span className="text-accent">.</span>S
           </h1>
         </div>
         <nav className="flex flex-col justify-center items-center gap-8">
